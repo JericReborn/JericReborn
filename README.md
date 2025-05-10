@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Jeric | Quant Dev Aspirant  
+**SWE @ Microsoft/JPMorgan → Building low-latency trading systems in C++**  
 
-<!--
-**JericReborn/JericReborn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![C++](https://img.shields.io/badge/C++-Expert-blue)](https://github.com/JericReborn?tab=repositories&q=c%2B%2B&type=source)
+[![HFT](https://img.shields.io/badge/Latency-<100µs-green)](https://github.com/JericReborn/Low-Latency-Order-Book)
+[![Daily Grind](https://img.shields.io/badge/Daily_Grind-45_days-ff69b4)](https://github.com/JericReborn/Daily-Grind)
 
-Here are some ideas to get you started:
+## 🚀 Active Projects  
+| Project                  | Latency       | Progress |  
+|--------------------------|---------------|----------|  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📈 Quant Dev Journey  
+```cpp
+// From Web Dev to Quant C++
+#include <atomic>
+#include <iostream>
+
+int main() {
+    std::atomic<bool> quit{false};
+    while (!quit) {
+        std::cout << "Grinding C++ for Quant...\n";
+    }
+    return 0;
+}
